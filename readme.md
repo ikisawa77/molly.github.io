@@ -2,7 +2,7 @@
 
 Hello there! 👋  
 
-This is a **beginner-friendly authentication system** built with **vanilla PHP**, designed for **small personal projects** . It allows you to focus on other aspects of your project without worrying about authentication.  
+This is a **Login-Register authentication system** built with **vanilla PHP**, designed for **small personal projects** . It allows you to focus on other aspects of your project without worrying about authentication.  
 
 ## 📌 About the Project  
 🔹 Simple and easy to use  
@@ -18,10 +18,10 @@ I’ll update this **README** as the project evolves. Stay tuned! 🚀
 ---
 
 ### 🔗 Stay Connected  
-📢 **YouTube**: [@francis_tech](#)  
-🐦 **Twitter**: [@franktech_](#)  
+📢 **YouTube**: 
+🐦 **Twitter**:
 
-💻 **GitHub**: [https://github.com/francis-njenga](#)  
+💻 **GitHub**:
 
 ---
 
