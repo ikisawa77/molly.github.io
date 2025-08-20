@@ -11,7 +11,7 @@ This is a **beginner-friendly authentication system** built with **vanilla PHP**
 
 I’ll keep improving it over time. For now, you can find more details on my **YouTube channel**:  
 
-🎥 **Watch here:** 👉 [**Click to Watch**](https://youtu.be/58Gfn2jV8-Y)  
+🎥 **Watch here:** 👉 [**Click to Watch**](https://www.youtube.com/watch?v=6IOgKe_7L38)
 
 I’ll update this **README** as the project evolves. Stay tuned! 🚀  
 
